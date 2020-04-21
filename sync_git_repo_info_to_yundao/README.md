@@ -87,7 +87,7 @@ default_user  # 默认用户， gitlab私钥对应的用户名
 
 使用idle打开该文件，点击下拉框中的run module即可执行
 
-![image-20200111115911040](others/pics/image-20200111115911040.png)
+![image-20200111115911040](./others/pics/image-20200111115911040.png)
 
 
 
@@ -95,7 +95,7 @@ default_user  # 默认用户， gitlab私钥对应的用户名
 
 ##### （1）执行过程中，界面上会输出相应的打印信息，如下图所示：
 
-![image-20200111134831994](others/pics/image-20200111134831994.png)
+![image-20200111134831994](./others/pics/image-20200111134831994.png)
 
 
 
@@ -103,9 +103,9 @@ default_user  # 默认用户， gitlab私钥对应的用户名
 
 - 执行开始时，需要用户确认，要同步的项目是否正确， 如下：
 
-![image-20200111120704288](others/pics/image-20200111120704288.png)
+![image-20200111120704288](./others/pics/image-20200111120704288.png)
 
 - 执行过程中，如果抛出异常，则需要用户确认，是否继续向后执行， 如下：
 
-![image-20200111120759901](others/pics/image-20200111120759901.png)
+![image-20200111120759901](./others/pics/image-20200111120759901.png)
 
